@@ -1,0 +1,2 @@
+A simple Scrapy Spider for crawling Lockbits archive browser and downloading certain file types. Run with a TOR wrapper lik Torify.
+All credit due to Scrapy. Great stuff.
